@@ -91,4 +91,4 @@ export default Test
 
 ### NB: This repository is a super set of the original [ReactHTMLTableToExcel](https://npmjs.org/package/react-html-table-to-excel-3) package by [zsusac](https://github.com/zsusac) which is currently no longer maintained. This version adds some new features but maintains the original core.
 
-I do not retain the ownership or responsibility of this package.
+I do not retain the ownership or responsibility of the core of this package or it's parent.
